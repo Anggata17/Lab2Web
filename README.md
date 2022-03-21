@@ -1,7 +1,10 @@
 # Lab2Web
-                                                                  Angga Thifal Ananda
-                                                                       312010419
-                                                                        TI.20.B2
+
+
+
+                                                           Angga Thifal Ananda
+                                                               312010419
+                                                                TI.20.B2
                   
 # Pratikum CSS Dasar
 
