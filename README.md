@@ -1,7 +1,7 @@
 # Lab2Web
-                                                           Angga Thifal Ananda
-                                                               312010419
-                                                                TI.20.B2
+                                                        Angga Thifal Ananda
+                                                            312010419
+                                                             TI.20.B2
                   
 # Pratikum CSS Dasar
 
@@ -46,5 +46,34 @@ style_eksternal.css, tambahkan kode berikut.
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 ![Screenshot (97)](https://user-images.githubusercontent.com/73052649/159262515-7d24eeb8-0d83-42fa-ad33-6be2916833e6.png)
 
+# Pertanyaan dan tugas
+# Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+ 
+Disini saya menambahkan elemen <option> untuk menu Dropdown, Berikut Code nya :
+<div>
+          <label for="Asal kota">Asal Kota</label>
+          <select>
+            <option selected>--pilih kota asal--</option>
+            <option>Cikarang</option>
+            <option>Jakarta</option>
+            <option>Karawang</option>
+            <option>Bekasi</option>
+            <option>Subang</option>
+          </select>
+</div>
+Dan dibawah ini akan saya tampilkan listbox multiple selection.
+
+disini saya menggunakan element <input type="Checkbox">, berikut codenya :
+
+ <div>
+          <label for="Hobi">Pilih Hobi</label>
+          <input type="checkbox" name="Hobi" value="Olahraga"><label>Olahraga</label>
+          <input type="checkbox" name="Hobi" value="Membaca"><label>Membaca</label>
+          <input type="checkbox" name="Hobi" value="Memancing"><label>Memancing</label>
+          <input type="checkbox" name="Hobi" value="Musik"><label>Musik</label>
+ </div>
   
+Berikut Hasilnya : 
+![Screenshot (123)](https://user-images.githubusercontent.com/73052649/160265273-8e4d3c73-59a0-410a-bb5f-3119ed276eef.png)
+
   
