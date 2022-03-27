@@ -49,30 +49,9 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 # Pertanyaan dan tugas
 # Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
  
-Disini saya menambahkan elemen <option> untuk menu Dropdown, Berikut Code nya :
-<div>
-          <label for="Asal kota">Asal Kota</label>
-          <select>
-            <option selected>--pilih kota asal--</option>
-            <option>Cikarang</option>
-            <option>Jakarta</option>
-            <option>Karawang</option>
-            <option>Bekasi</option>
-            <option>Subang</option>
-          </select>
-</div>
-Dan dibawah ini akan saya tampilkan listbox multiple selection.
-
-disini saya menggunakan element <input type="Checkbox">, berikut codenya :
-
- <div>
-          <label for="Hobi">Pilih Hobi</label>
-          <input type="checkbox" name="Hobi" value="Olahraga"><label>Olahraga</label>
-          <input type="checkbox" name="Hobi" value="Membaca"><label>Membaca</label>
-          <input type="checkbox" name="Hobi" value="Memancing"><label>Memancing</label>
-          <input type="checkbox" name="Hobi" value="Musik"><label>Musik</label>
- </div>
-  
+Disini saya menambahkan elemen option untuk menu Dropdown dan disini juga saya menggunakan element input type Checkbox
+Dan dibawah ini akan saya tampilkan listbox multiple selection dan codenya :
+![Screenshot (122)](https://user-images.githubusercontent.com/73052649/160265357-4369b123-21d7-4e27-93a0-985ab80ddac1.png)![Screenshot (123)](https://user-images.githubusercontent.com/73052649/160265360-d99f1cd6-03cc-4f79-a191-c3f07d0e8bf6.png)
 Berikut Hasilnya : 
 ![Screenshot (123)](https://user-images.githubusercontent.com/73052649/160265273-8e4d3c73-59a0-410a-bb5f-3119ed276eef.png)
 
