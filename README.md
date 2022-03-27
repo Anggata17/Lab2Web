@@ -46,13 +46,4 @@ style_eksternal.css, tambahkan kode berikut.
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 ![Screenshot (97)](https://user-images.githubusercontent.com/73052649/159262515-7d24eeb8-0d83-42fa-ad33-6be2916833e6.png)
 
-# Pertanyaan dan tugas
-# Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
- 
-Disini saya menambahkan elemen option untuk menu Dropdown dan disini juga saya menggunakan element input type Checkbox
-Dan dibawah ini akan saya tampilkan listbox multiple selection dan codenya :
-![Screenshot (122)](https://user-images.githubusercontent.com/73052649/160265357-4369b123-21d7-4e27-93a0-985ab80ddac1.png)![Screenshot (123)](https://user-images.githubusercontent.com/73052649/160265360-d99f1cd6-03cc-4f79-a191-c3f07d0e8bf6.png)
-Berikut Hasilnya : 
-![Screenshot (123)](https://user-images.githubusercontent.com/73052649/160265273-8e4d3c73-59a0-410a-bb5f-3119ed276eef.png)
 
-  
